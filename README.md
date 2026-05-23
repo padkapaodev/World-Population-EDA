@@ -1,6 +1,6 @@
 # World Population Exploratory Data Analysis (EDA)
 
-A comprehensive data analysis project exploring global demographic patterns, growth trajectories across continents, 
+**Project Overview:** A comprehensive data analysis project using the raw dataset (world_population.csv) from kaggle to explore global demographic patterns, growth trajectories across continents, 
 and a deep-dive case study on Thailand's demographic transition using historical records from 1970 to 2022.
 
 ---
