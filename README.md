@@ -17,6 +17,6 @@ and a deep-dive case study on Thailand's demographic transition using historical
 ## Tech Stack
 
 * **Language:** Python
-* **Data Manipulation:** `Pandas`
-* **Data Visualization:** `Seaborn`, `Matplotlib.pyplot`
+* **Data Manipulation:** Pandas
+* **Data Visualization:** Seaborn, Matplotlib.pyplot
 * **Environment:** Jupyter Notebook
